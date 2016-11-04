@@ -1,3 +1,5 @@
-Compile with:
+## Compiling
 
-$ gcc fft.c -o [name] -lm
+```
+gcc fft.c -o [name] -lm
+```
